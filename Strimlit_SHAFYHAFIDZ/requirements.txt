@@ -1,0 +1,7 @@
+cloudpickle
+streamlit
+pandas
+matplotlib==3.7.2
+seaborn
+numpy
+scikit-learn
