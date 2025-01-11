@@ -6,7 +6,7 @@ Dalam Kasus ini akan melakukan
 4. Video Presesntasi (Link Video)
 5. Jurnal Pendukung (Link Jurnal)
 
-** Note : Untuk menjalankan Strimlit, silahkan download kemudian run terminal dengan (Run Strimlit "FolderPath\Homepage.py"), atau bisa akses di link ini [Klick Disini]()
+** Note : Untuk menjalankan Strimlit, silahkan download kemudian run terminal dengan (Run Strimlit "FolderPath\Homepage.py"), atau bisa akses di link ini [Klick Disini](https://shafyhafidzmodeling-insurance-7bftkacnrzcfv2ymvpmehu.streamlit.app/input&predict)
 
 
 # Identifikasi Masalah
