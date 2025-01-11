@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Memuat model (sudah termasuk ColumnTransformer)
-with open('ModelGradientSaf.sav', 'rb') as file:
+with open('Strimlit_SHAFYHAFIDZ/ModelGradientSaf.sav', 'rb') as file:
     model = pickle.load(file)
 
 # Judul aplikasi
