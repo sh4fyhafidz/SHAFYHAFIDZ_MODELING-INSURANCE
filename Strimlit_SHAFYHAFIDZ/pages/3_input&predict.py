@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load model prediksi yang sudah disimpan
-with open('ModelGradientSaf.sav', 'rb') as file:
+with open('Strimlit_SHAFYHAFIDZ/ModelGradientSaf.sav', 'rb') as file:
     model = pickle.load(file)
 
 # Judul halaman
