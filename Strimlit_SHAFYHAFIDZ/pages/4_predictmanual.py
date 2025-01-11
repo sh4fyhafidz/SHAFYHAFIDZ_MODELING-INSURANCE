@@ -7,7 +7,7 @@ with open('Strimlit_SHAFYHAFIDZ/ModelGradientSaf.sav', 'rb') as file:
     model = pickle.load(file)
 
 # Judul aplikasi
-st.title("Prediksi Default Kredit")
+st.title("Prediksi Default Status Pemegang Polis")
 
 # Input pengguna
 st.sidebar.header('Masukkan Informasi Pemegang Polis')
