@@ -6,7 +6,8 @@ Dalam Kasus ini akan melakukan
 4. Video Presesntasi (Link Video)
 5. Jurnal Pendukung (Link Jurnal)
 
-** Note : Untuk menjalankan Strimlit, silahkan download kemudian run terminal dengan (Run Strimlit "FolderPath\Homepage.py")
+** Note : Untuk menjalankan Strimlit, silahkan download kemudian run terminal dengan (Run Strimlit "FolderPath\Homepage.py"), atau bisa akses di link ini [Klick Disini]()
+
 
 # Identifikasi Masalah
 Perusahaan asuransi perjalanan sering menghadapi tantangan dalam memprediksi pemegang polis mana yang kemungkinan besar akan mengajukan klaim. Ketidakpastian ini menyebabkan alokasi sumber daya yang kurang efisien, baik dalam pengelolaan risiko maupun dalam penggunaan data pelanggan untuk kebutuhan strategis lainnya. Sebagai contoh, polis yang belum diklaim memiliki potensi besar untuk dimanfaatkan dalam strategi pemasaran produk tambahan, personalisasi layanan, atau penyesuaian premi yang lebih kompetitif. Namun, tanpa pemahaman yang tepat tentang profil pelanggan yang cenderung melakukan klaim, perusahaan kehilangan peluang untuk mengoptimalkan nilai dari setiap polis yang dimiliki.
